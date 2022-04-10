@@ -4,6 +4,9 @@
 
 # Imports Library smtplib sebagai modul 
 import smtplib
+'''
+smtplib meruapakan library untuk mengirim eamail melalui python.
+'''
 
 # Input Login Email pengirim 
 email_pengirim = input(str("Masukkan akun gmail anda: "))
